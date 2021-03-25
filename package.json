@@ -28,7 +28,7 @@
     "connect-openui5": "^0.4.0",
     "cors": "^2.5.3",
     "less-openui5": "^0.1.1",
-    "maxmin": "^1.0.1",
+    "maxmin": "^2.1.0",
     "multiline": "^1.0.2",
     "pretty-data": "^0.40.0",
     "serve-static": "^1.10.0",
